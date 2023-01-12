@@ -1,5 +1,16 @@
 # raspberry_config
 
+## connect to raspberry 
+use [ZeroTier](https://my.zerotier.com) create an account and connect your raspberry and your pc 
+
+- install zerotier 
+- connect to network
+- approve device on web app
+
+ssh@the.ip.you.find
+
+
+
 its main purpose is to keep alive different telegram bots
 
 in the folder **telegram_bot** there are all the cloned repository 
